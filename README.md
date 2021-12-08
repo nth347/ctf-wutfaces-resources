@@ -1,5 +1,5 @@
 # ctf-wutfaces-resources
-A CTF challenge made by @tint0 with my own solution 
+MatesCTF2018 WutFaces - A CTF challenge made by @tint0 with my own solution
 # About
 * wutfaces-1.0.1-SNAPSHOT.war - war file for deploying to Tomcat (tested with Tomcat9 on Ubuntu 20.04.3)
 * wutfaces-1.0.1-SNAPSHOT - Extracted from war file
